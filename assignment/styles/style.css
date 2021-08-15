@@ -1,1 +1,5 @@
-/* give your assignment a fun background color */
+body {background-color: blue;}/* give your assignment a fun background color */
+
+header {background-color: yellow;}
+
+footer {background-color: red;}
